@@ -8,21 +8,36 @@ This project explores online retail transaction data using a mix of **SQL for da
 
 Here's how everything is organized:
 
-OnlineRetail_PowerBI_Dashboard/
+Online_Retail_Analysis/
+
 │
+
 ├── README.md 
+
 ├── DATA/
+
 │ ├── online_retail
+
 │ └── online_retail_clean.csv # cleaned data for analysis
+
 │
+
 ├── Power BI/
+
 │ └── Dashboard_OnlineRetail.pbix
+
 │ └── Power BI report preview.pdf
+
 │
+
 ├── SQL/
+
 │ └──  create_table.sql
+
 │ └──  data_cleaning.sql
+
 │ └──  data_querying.sql
+
 |
 
 ---
